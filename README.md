@@ -1,17 +1,16 @@
-# diet_recommendation
+# Diet Rec 🥗
 
-A new Flutter project.
+## About the Project
+Diet Recommendation is a Flutter application designed to help users find a suitable diet plan based on their personal information and goals.
 
-## Getting Started
+## Features
+- User information input.
+- Personalized diet recommendations.
+- Simple and user-friendly interface.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Status
+This project is currently under development.
