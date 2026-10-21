@@ -1,4 +1,4 @@
-# Diet Rec 🥗
+# Diet Recommendation 🥗
 <p align="center">
   <img src="assets/images/Diet%20AI%20Android%20App%20Showcase.png" width="700">
 </p>
