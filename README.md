@@ -1,4 +1,7 @@
 # Diet Rec 🥗
+<p align="center">
+  <img src="assets/images/Diet%20AI%20Android%20App%20Showcase.png" width="700">
+</p>
 
 ## About the Project
 Diet Recommendation is a Flutter application designed to help users find a suitable diet plan based on their personal information and goals.
